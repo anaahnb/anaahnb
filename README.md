@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+sou+Ana+J%C3%BAlia!;Bem+vindo+ao+meu+perfil+%3C3)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F1F1F1&size=30&center=true&vCenter=true&width=1000&height=60&lines=HELLO+I'M+ANA+J%C3%9ALIA;WELCOME+TO+MY+PROFILE;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 
 <img width="19%" align="right" src="https://o.remove.bg/downloads/5dea98cb-3adb-46eb-ad85-3fce431b652a/image-removebg-preview.png">
 
